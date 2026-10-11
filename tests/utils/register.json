@@ -1,0 +1,29 @@
+[{
+    "GroupName": "Blood Bank",
+    "BussName": "MyTest108",
+    "UserName": "MyTest108",
+    "Email": "mytest108@example.com",   
+    "Password": "MyTest108",
+    "ConfirmPassword": "MyTest108"
+},{
+    "GroupName": "Doctor",
+    "BussName": "MyTest109",
+    "UserName": "MyTest109",
+    "Email": "mytest109@example.com",
+    "Password": "MyTest109",
+    "ConfirmPassword": "MyTest109"
+},{
+    "GroupName": "Orthotic",
+    "BussName": "MyTest110",
+    "UserName": "MyTest110",
+    "Email": "mytest110@example.com",
+    "Password": "MyTest110",
+    "ConfirmPassword": "MyTest110"
+},{
+    "GroupName": "Stockist",
+    "BussName": "MyTest111",
+    "UserName": "MyTest111",
+    "Email": "mytest111@example.com",
+    "Password": "MyTest111",
+    "ConfirmPassword": "MyTest111"
+}]
